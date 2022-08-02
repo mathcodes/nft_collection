@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #7",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "acdbcd8bb562e457186e11c9bf2708ad47614b25",
+  "edition": 7,
+  "date": 1659466616324,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "backgroundgr"
+    },
+    {
+      "trait_type": "fullGuitar",
+      "value": "fullGuitargr"
+    },
+    {
+      "trait_type": "headStock",
+      "value": "headStock2"
+    },
+    {
+      "trait_type": "longNeck",
+      "value": "longNeck"
+    },
+    {
+      "trait_type": "strings",
+      "value": "midStringsWhite"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

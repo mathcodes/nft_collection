@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "0e54a6b3a22720398a2c16f9fcf9a1d4a3f84099",
+    "edition": 1,
+    "date": 1659466616091,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "backgroundgr"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargreen"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock2"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeckyellow"
+      },
+      {
+        "trait_type": "strings",
+        "value": "midStringsWhite"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "de9010ff85dcb44d5124b5324ac328185cbe0a10",
+    "edition": 2,
+    "date": 1659466616135,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargreen"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock2"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeck"
+      },
+      {
+        "trait_type": "strings",
+        "value": "upStrings"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "1d6d03d5b386a3c806e16837d5a6c1873a813cd2",
+    "edition": 3,
+    "date": 1659466616173,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargr"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeckyellow"
+      },
+      {
+        "trait_type": "strings",
+        "value": "midStringsWhite"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "56c575c25d87e0356f0c047ef16a5aff202bded0",
+    "edition": 4,
+    "date": 1659466616212,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "backgroundgr"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargreen"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock2"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeck"
+      },
+      {
+        "trait_type": "strings",
+        "value": "upStrings"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "d3973e95cf27dc73dc37d295bfb74dc78e5379ad",
+    "edition": 5,
+    "date": 1659466616247,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "backgroundgr"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargr"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeck"
+      },
+      {
+        "trait_type": "strings",
+        "value": "midStrings"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "d84d42997753f2ed9c62cb485df494c9d9e95246",
+    "edition": 6,
+    "date": 1659466616284,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargr"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeck"
+      },
+      {
+        "trait_type": "strings",
+        "value": "upStringWhite"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "acdbcd8bb562e457186e11c9bf2708ad47614b25",
+    "edition": 7,
+    "date": 1659466616324,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "backgroundgr"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargr"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock2"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeck"
+      },
+      {
+        "trait_type": "strings",
+        "value": "midStringsWhite"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "6b0559d2b58c0409f1ae66f1afacbe7a57a153a5",
+    "edition": 8,
+    "date": 1659466616361,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitargr"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeckyellow"
+      },
+      {
+        "trait_type": "strings",
+        "value": "upStrings"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "6bde84c45517c4ea83f7bc771df95be00b15200f",
+    "edition": 9,
+    "date": 1659466616402,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background"
+      },
+      {
+        "trait_type": "fullGuitar",
+        "value": "fullGuitar"
+      },
+      {
+        "trait_type": "headStock",
+        "value": "headStock2"
+      },
+      {
+        "trait_type": "longNeck",
+        "value": "longNeck"
+      },
+      {
+        "trait_type": "strings",
+        "value": "upStringWhite"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
